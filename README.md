@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-Weather Analysis of PLANMYTRIP
+Weather Analysis of PlanMyTrip

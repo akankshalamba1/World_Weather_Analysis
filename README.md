@@ -3,11 +3,11 @@ Weather Analysis of PlanMyTrip
 
 ## Fundamental Project Plan
 An overview of your project plan is given below:
--**Collect and examine weather information from various cities across the globe.**
+- **Collect and examine weather information from various cities across the globe.**
 
--**Goal**: PlanMyTrip will use the information to suggest the best hotels depending on the weather preferences of its customers.
+- **Goal**: PlanMyTrip will use the information to suggest the best hotels depending on the weather preferences of its customers.
 
--**Approach**: Build a Pandas DataFrame with at least 500 distinctive cities from around the globe and their current weather information. Data collection, analysis, and visualization are all parts of this process.
+- **Approach**: Build a Pandas DataFrame with at least 500 distinctive cities from around the globe and their current weather information. Data collection, analysis, and visualization are all parts of this process.
 
 There will be three primary phases of data analysis.
 

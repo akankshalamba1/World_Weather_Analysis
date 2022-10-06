@@ -1,9 +1,9 @@
 # World_Weather_Analysis
 Weather Analysis of PlanMyTrip
 
-##Fundamental Project Plan
+## Fundamental Project Plan
 An overview of your project plan is given below:
--###Collect and examine weather information from various cities across the globe.
+-### Collect and examine weather information from various cities across the globe.
 
 •**Goal**: PlanMyTrip will use the information to suggest the best hotels depending on the weather preferences of its customers.
 

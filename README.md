@@ -24,6 +24,8 @@ There will be three primary phases of data analysis.
    - Cloudiness
    - Wind speed
 
+![database](https://user-images.githubusercontent.com/111251560/194207121-72e66495-e4b9-4682-a67a-7f509e0d9e1c.png)
+
 ### 2. Visualized Exploratory Analysis
 - Produce scatter plots using the weather information for the following comparisons:
 - Temperature versus latitude
@@ -37,6 +39,8 @@ There will be three primary phases of data analysis.
 - Cloudiness and latitude
 - Latitude and wind velocity
 
+![WeatherPy_vacation](https://user-images.githubusercontent.com/111251560/194207199-d825948a-9326-4807-b656-83f9420c4825.png)
+
 ### 3. Make Travel Data Visual
 Create a marker layer map with pop-up markers that can show details about particular cities depending on the travel interests of a consumer. Follow these instructions:
 -  Filter the Pandas DataFrame based on the 4 selected hotels from the temprature range selected by the end user.
@@ -46,3 +50,8 @@ Create a marker layer map with pop-up markers that can show details about parti
 
 ### Plotting the marker layer map to show the itenerary:
 As shown in the picture below:
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/111251560/194207247-1dd02d0b-8361-46a1-a0ff-6abd2b340c1e.png)
+
+![WeatherPY_travel_map_markers](https://user-images.githubusercontent.com/111251560/194207278-cff044f9-3aa1-4532-9343-37cf5309c9ae.png)
+

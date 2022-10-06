@@ -11,7 +11,7 @@ An overview of your project plan is given below:
 
 There will be three primary phases of data analysis.
 
-1.#### Gather the Data
+1. Gather the Data
 
 o Generate more than 1,500 random latitudes and longitudes using the NumPy package.
 

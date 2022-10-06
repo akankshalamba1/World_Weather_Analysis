@@ -11,10 +11,7 @@ An overview of your project plan is given below:
 
 There will be three primary phases of data analysis.
 
-1. Gather the Data
-
-o Generate more than 1,500 random latitudes and longitudes using the NumPy package.
-
-o List the closest cities to the latitudes and longitudes using the citipy module.
-
-o To obtain the most recent weather information from each, use the OpenWeatherMap API.
+###1. Gather the Data
+- Generate more than 1,500 random latitudes and longitudes using the NumPy package.
+- List the closest cities to the latitudes and longitudes using the citipy module.
+- To obtain the most recent weather information from each, use the OpenWeatherMap API.

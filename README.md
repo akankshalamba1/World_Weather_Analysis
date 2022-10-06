@@ -37,8 +37,8 @@ There will be three primary phases of data analysis.
 - Cloudiness and latitude
 - Latitude and wind velocity
 
-3. Make Travel Data Visual
-### Create a marker layer map with pop-up markers that can show details about particular cities depending on the travel interests of a consumer. Follow these instructions:
+### 3. Make Travel Data Visual
+Create a marker layer map with pop-up markers that can show details about particular cities depending on the travel interests of a consumer. Follow these instructions:
 -  Filter the Pandas DataFrame based on the 4 selected hotels from the temprature range selected by the end user.
 - Use the Search Nearby function of Google Maps and Places API to find hotel information based on the locations of the cities.
 - Save the first hotel's name in the DataFrame.
